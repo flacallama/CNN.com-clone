@@ -1,0 +1,139 @@
+body{
+  box-sizing: border-box;
+  width: 100%;
+}
+
+/*------navbar left------*/
+.nav .nvln {
+  padding:5px;
+  font-size: 110%;
+}
+
+.col-md-9 .navbar-nav{
+  margin-left: -25px;
+}
+
+.active{
+  background-color: black;
+}
+.firstnav li {
+border-right: 1px solid white;
+background-color: black;
+margin-top:10px;
+}
+
+body .navbar-default {
+background-color: black;
+}
+
+/*------navbar right------*/
+
+.plussign{
+  font-size: 1.6em;
+  font-weight: 700;
+}
+
+.navbarall{
+  width: 100% !important;
+}
+
+.secondnav li {
+background-color: black;
+margin-top:10px;
+}
+.redcircle{
+  height:1em;
+  width:1em;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
+#livetvbox {
+  width: 6em;
+  background-color: black;
+  color: white;
+  border:1px solid white;
+  padding-bottom:.25em;
+  padding-top:.25em;
+  margin-left: em;
+  margin-top: .25em;
+  display: inline-block;
+  text-align: center;
+}
+
+#magnifyingglass {
+  height:1em;
+  width:1em;
+}
+
+
+/*----- main -----*/
+/*---- row 2 -----*/
+/*.test {
+  height:200px;
+  background-color: green;
+  margin:10px;
+}*/
+
+.col-md-5 .headline{
+  margin:0px;
+  text-align:center;
+}
+
+
+.topline {
+  border-top: 1px solid black;
+  padding-top: 1em;
+}
+
+.greybox{
+  font-size: 1.4em;
+  background-color: lightgrey;
+  padding-top:.25em;
+}
+
+.image{
+  width:100%;
+  height: auto;
+}
+
+.smimg {
+  margin-top:.5em;
+  margin-bottom:.5em;
+}
+
+.doubleline {
+  margin-top:.8em;
+  height:15px;
+  border-top: 6px solid grey;
+  border-bottom:6px solid grey;
+  display:inline-block;
+  width:100%;
+}
+
+.h2video{
+  display: inline-block;
+  margin: 0px;
+}
+
+
+
+
+.col-md-1{
+  margin:0px;
+  padding:0px;
+}
+
+.container-fluid{
+  margin:0px;
+  padding:0px;
+}
+
+.dividerhoriz{
+  margin-bottom:1em;
+}
+
+
+.pad {
+  padding-top:.6em;
+}
